@@ -11,7 +11,7 @@ const data = [
 },
 {
     id: '3',
-    question: "Accordian as a musical instrument",
+    question: "Accordion as a musical instrument",
     answer: "Accordion, as a musical instrument, is a portable box-shaped instrument with a keyboard, buttons, and bellows",  
 },
 {

@@ -1,0 +1,24 @@
+.qrcode {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.qrcode h1{
+    color: #4e0dda;
+}
+.input{
+    width: 250px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border-radius: 50px;
+    height:30px ;
+    
+}
+
+.btn {
+    
+    border-radius: 50px;
+    height:30px ;
+}
